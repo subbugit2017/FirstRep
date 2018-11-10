@@ -1,4 +1,0 @@
-[?6/?19/?2017 5:12 PM] Kaishev, Georgi (Oracle DBA): 
-pl-snu-db-002 
-172.24.200.124    pl-snu-db-002.canonhosted.net pl-snu-db-002 
-172.24.200.125   pl-snu-db-002-vip.canonhosted.net pl-snu-db-002-vip 
